@@ -1,7 +1,7 @@
 {
-  "name": "udemy-translate-subtitles",
+  "name": "chrome-extension-boilerplate",
   "version": "1.0.0",
-  "description": "Subtitle translation for Udemy",
+  "description": "Chrome Extension Boilerplate with React",
   "main": "index.js",
   "scripts": {
     "prepare": "husky install",
